@@ -20,3 +20,9 @@ A Flutter CustomPainter project that draws interactive smiley faces.
 - CustomPainter
 - Canvas and Paint
 - GestureDetector
+
+## Project Structure
+
+- `lib/main.dart` - Main Flutter application and CustomPainter implementation
+- `README.md` - Project documentation
+- `pubspec.yaml` - Flutter project configuration
